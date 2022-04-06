@@ -2,7 +2,7 @@
 
 Welcome to my personal notes on various computer science topics, gathered over 3 years.
 
-I am sharing them in the hope that they would be useful you as well.
+I am sharing them in the hope that they would be useful to you as well.
 
 Available notes:
 
